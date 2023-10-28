@@ -1,0 +1,170 @@
+body{
+        background-color: #D2F0F8;
+        font-family: serif;
+        }
+		
+		.logo{
+		background-image: url("https://i.pinimg.com/736x/44/7d/e1/447de1eb3269799e4707759791fd1e25.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 40px 40px;
+		border-radius: 50px;
+		float: left;
+		position: relative;
+		top: 10px;
+		left: 39px;
+		}
+		
+		.title{
+		text-align: center;
+		color: white;
+		background-color: #6F8FAF;
+		padding: 25px;
+		width: 800px;
+		position: relative;
+		top: 15px;
+		left: 175px;
+		border-radius: 25px;
+		}
+		
+		.settings{
+		text-align: center;
+		color: white;
+		font-size: 25px;
+		font-weight: bold;
+		background-color: #6F8FAF;
+		padding: 25px 45px;
+		width: 200px;
+		position: relative;
+		top: -55px;
+		left: 801px;
+		right: 40px;
+		border-radius: 25px;
+		}
+		
+		.library{
+		background-image: url("https://i.pinimg.com/564x/0e/7e/f8/0e7ef8f47abb275c812d60f18ef77ad7.jpg");
+		background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 204px 160px;
+		border-radius: 25px;
+		float: left;
+		position: relative;
+		top: 40px;
+		left: 40px;
+        bottom: 100px;
+		}
+		
+		.sharks{
+        text-align:center;
+        background-image: url("https://i.pinimg.com/564x/7a/fc/0b/7afc0b9ff24995fbc276ecfa6cd6cdbf.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 350px;
+		border-radius: 25px;
+		float: right;
+		font-size: 60px;
+		position: relative;
+		top: -37px;
+		right: 40px;
+        }
+		
+		.whaleshark{
+		text-align:center;
+        background-image: url("https://i.pinimg.com/564x/c2/c9/47/c2c9472d964df95b615b3170f20f7eb9.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 55px;
+		border-radius: 25px;
+		float: left;
+		font-size: 20px;
+		position: relative;
+		top: -50px;
+		left: 115px;
+		}
+		
+		.greatwhite{
+		text-align:center;
+        background-image: url("https://i.pinimg.com/564x/63/1d/ec/631dec304120947f9b5e051be94919ea.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 55px;
+		border-radius: 25px;
+		float: left;
+		font-size: 20px;
+		position: relative;
+		top: -50px;
+		left: 180px;
+		}
+		
+		.nurseshark{
+		text-align:center;
+        background-image: url("https://i.pinimg.com/564x/d8/3e/92/d83e9230809958f3cd02a437bec505fd.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 55px;
+		border-radius: 25px;
+		float: left;
+		font-size: 20px;
+		position: relative;
+		top: -50px;
+		left: 250px;
+		}
+		
+		.hammerhead{
+		text-align:center;
+        background-image: url("https://i.pinimg.com/564x/df/08/ef/df08ef09ccaa6c1885e2c6c2d467e5b6.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 25px;
+		border-radius: 25px;
+		float: left;
+		font-size: 20px;
+		position: relative;
+		top: 140px;
+		left: -537px;
+		}
+		
+		.bullshark{
+		text-align:center;
+        background-image: url("https://i.pinimg.com/564x/52/ab/d7/52abd7650d1bde94434f13e68c1bfd1c.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 60px;
+		border-radius: 25px;
+		float: left;
+		font-size: 20px;
+		position: relative;
+		top: 5px;
+		left: 725px;
+		}
+		
+		.lemonshark{
+		text-align:center;
+        background-image: url("https://i.pinimg.com/564x/94/32/29/94322910496c0005536d8569537997ee.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 55px;
+		border-radius: 25px;
+		float: left;
+		font-size: 20px;
+		position: relative;
+		top: 5px;
+		left: 790px;
+		}

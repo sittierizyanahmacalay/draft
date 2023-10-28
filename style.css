@@ -1,0 +1,144 @@
+body{
+        background-color: #D2F0F8;
+        font-family: serif;
+        }
+		
+		.logo{
+		background-image: url("https://i.pinimg.com/736x/44/7d/e1/447de1eb3269799e4707759791fd1e25.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 40px 40px;
+		border-radius: 50px;
+		float: left;
+		position: relative;
+		top: 10px;
+		left: 39px;
+		}
+		
+		.title{
+		text-align: center;
+		color: white;
+		background-color: #6F8FAF;
+		padding: 25px;
+		width: 800px;
+		position: relative;
+		top: 15px;
+		left: 175px;
+		border-radius: 25px;
+		}
+		
+		.settings{
+		text-align: center;
+		color: white;
+		font-size: 25px;
+		font-weight: bold;
+		background-color: #6F8FAF;
+		padding: 25px 45px;
+		width: 200px;
+		position: relative;
+		top: -55px;
+		left: 801px;
+		right: 40px;
+		border-radius: 25px;
+		}
+		
+		.library{
+		color: white;
+	    font-size: 20px;
+		background-image: url("https://i.pinimg.com/564x/1a/c7/a7/1ac7a713277933f78a814ec8a800902d.jpg");
+		background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 204px 160px;
+		border-radius: 25px;
+		float: left;
+		position: relative;
+		top: 23px;
+		left: 40px;
+        bottom: 100px;
+		}
+		
+		.sharks{
+        text-align:center;
+        background-image: url("https://i.pinimg.com/564x/7a/fc/0b/7afc0b9ff24995fbc276ecfa6cd6cdbf.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 350px;
+		border-radius: 25px;
+		float: right;
+		font-size: 60px;
+		position: relative;
+		top: 40px;
+		right: 40px;
+        }
+		
+		.jellyfish{
+        text-align:center;
+        background-image: url("https://i.pinimg.com/564x/1a/e4/6b/1ae46be5ac15ce6899f6e9310a855b9c.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 330px;
+		border-radius: 25px;
+		float: right;
+		margin-right:auto;
+		font-size: 60px;
+		position: relative;
+		top: 94px;
+		right: 40px;
+        }	
+		
+		.starfish{
+        text-align:center;
+        background-image: url("https://i.pinimg.com/564x/51/6e/db/516edbf4070195292e16d3bdb12bdcaa.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 338px;
+		border-radius: 25px;
+		float: right;
+		margin-right:auto;
+		font-size: 60px;
+		position: relative;
+		top: 149px;
+		right: 40px;
+        }	
+		
+		.whale{
+        text-align:center;
+        background-image: url("https://i.pinimg.com/564x/e6/84/ac/e684ac7ecc6dd6e0f13983cfbc6ba1e2.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 340px;
+		border-radius: 25px;
+		float: right;
+		margin-right:auto;
+		font-size: 60px;
+		position: relative;
+		top: 205px;
+		right: 40px;
+        }	
+		
+		.slug{
+        text-align:center;
+        background-image: url("https://i.pinimg.com/564x/49/9d/05/499d0543377e2ddd955db68f770b2c77.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        padding: 55px 312px;
+		border-radius: 25px;
+		float: right;
+		margin-right:auto;
+		font-size: 60px;
+		position: relative;
+		top: 265px;
+		right: 40px;
+        }	
